@@ -1,6 +1,6 @@
 
 
-## <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Hello! I'm Mateus Mendes, a technology and creativity enthusiast. With experience in programming and graphic design, I dive into game development and software development with enthusiasm and dedication. 🖐️</div>
+## <div style="color: lavender; border: 2px solid indigo; padding: 5px; text-align: justify;">Hello! I'm Mateus Mendes, a technology and creativity enthusiast. With experience in programming and graphic design, I dive into game development and software development with enthusiasm and dedication. 🖐️</div>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Dev-Mendes-Dev)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
