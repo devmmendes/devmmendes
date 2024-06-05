@@ -1,6 +1,6 @@
 
 
-### <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Hello! I'm Mateus Mendes, a technology and creativity enthusiast. With experience in programming and graphic design, I dive into game development and software development with enthusiasm and dedication. 🖐️</div>
+## <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Hello! I'm Mateus Mendes, a technology and creativity enthusiast. With experience in programming and graphic design, I dive into game development and software development with enthusiasm and dedication. 🖐️</div>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Dev-Mendes-Dev)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
@@ -8,7 +8,7 @@
 
 ![devmmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=devmmendes&show_icons=true&theme=synthwave)
 
-### <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Technologies I use in my day 🖐️</div>
+## <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Technologies I use in my day 🖐️</div>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmmendes&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-### <div style="color: lavender; border: 2px solid indigo; padding: 5px;">OS</div>
+## <div style="color: lavender; border: 2px solid indigo; padding: 5px;">OS</div>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
@@ -30,4 +30,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div><br/>
 
-### <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Let's create something awesome together! 💡</div>
+## <div style="color: lavender; border: 2px solid indigo; padding: 5px;">Let's create something awesome together! 💡</div>
